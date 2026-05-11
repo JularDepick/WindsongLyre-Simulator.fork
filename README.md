@@ -4,23 +4,13 @@
 
 [在线使用](https://julardepick.github.io/demo/WindsongLyre-Simulator.fork) | [更新日志](Update_Log.md)
 
-![](img/preview_v1.0.1.png)
+![](img/preview_v1.0.2.png)
 
 ---
 
 ## 项目来源
 
-本项目 Fork 自 [VanillaNahida/WindsongLyre-Sim](https://github.com/VanillaNahida/WindsongLyre-Sim)，在此基础上做了如下更新：
-
-- **bug修复**
-  - 修复了同时打开多个功能弹窗的bug
-  - 修复了大写状态下字母按键无响应的bug
-  - 修复了离线/兼容模式下音量控制拖动条失效的bug
-- **体验优化**
-  - 优化了部分UI控件的样式
-  - 禁用了 Tab 键，避免浏览器聚焦到UI控件上影响体验
-- **新增功能**
-  - 新增了快捷键 `ESC` ，用于关闭已打开的弹窗
+本项目 Fork 自 [VanillaNahida/WindsongLyre-Sim](https://github.com/VanillaNahida/WindsongLyre-Sim)，在此基础上做了更新，更新内容详见[更新日志](Update_Log.md)。
 
 ## 乐器列表
 
